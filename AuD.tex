@@ -123,8 +123,20 @@
 	\subsubsection{TODO BILDER} %TODO Bilder
 	\subsection{Spannbaum-Algorithmen}
 	\subsubsection{Prim}
+	Greedy-Algorithmus
+	\\\textbf{Vorgehen:}
+	\begin{itemize}
+		\item Beginne bei Startknoten
+		\item Füge 'günstigste' anliegende Kante hinzu, die einen neuen Knoten verbindet
+		\item Wiederhole, solange Spannbaum unvollständig
+	\end{itemize}
 	\subsubsection{Kruskal}
-	\subsection{TODO Tiefensuche Breitensuche, Algorithmen}
+	Ebenfalls Greedy-Algorithmus
+	\begin{itemize}
+		\item Erstelle Graph mit allen Knoten, aber ohne Kanten
+		\item Sortiere Kanten des original aufsteigend
+		\item Füge billigste Kante zum Spannbaum hinzu, wenn beide Knoten noch nicht verbunden sind
+	\end{itemize}
 	\subsection{Traversierung}
 	\subsubsection{Tiefensuche}
 	Graph wird zu erst in die Tiefe durchsucht
