@@ -1,0 +1,31 @@
+\babel@toc {german}{}
+\contentsline {section}{\numberline {1}Multiple Choice / Wissen}{2}%
+\contentsline {section}{\numberline {2}Bäume}{2}%
+\contentsline {subsection}{\numberline {2.1}Traversierung}{2}%
+\contentsline {subsection}{\numberline {2.2}Binärer Suchbaum}{2}%
+\contentsline {subsection}{\numberline {2.3}Halden}{2}%
+\contentsline {subsection}{\numberline {2.4}AVL-Bäume}{3}%
+\contentsline {subsubsection}{\numberline {2.4.1}Balancieren}{3}%
+\contentsline {section}{\numberline {3}Graphen}{3}%
+\contentsline {subsection}{\numberline {3.1}Begriffe}{3}%
+\contentsline {subsection}{\numberline {3.2}Darstellungen}{4}%
+\contentsline {subsubsection}{\numberline {3.2.1}TODO BILDER}{4}%
+\contentsline {subsection}{\numberline {3.3}Spannbaum-Algorithmen}{4}%
+\contentsline {subsubsection}{\numberline {3.3.1}Prim}{4}%
+\contentsline {subsubsection}{\numberline {3.3.2}Kruskal}{4}%
+\contentsline {subsection}{\numberline {3.4}Traversierung}{4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Tiefensuche}{4}%
+\contentsline {subsubsection}{\numberline {3.4.2}Breitensuche}{5}%
+\contentsline {subsection}{\numberline {3.5}Kürzeste Wege}{5}%
+\contentsline {section}{\numberline {4}Rekursion}{5}%
+\contentsline {section}{\numberline {5}Dyn. Prog.}{5}%
+\contentsline {section}{\numberline {6}Sortieren}{5}%
+\contentsline {section}{\numberline {7}HashMaps}{5}%
+\contentsline {section}{\numberline {8}ADTs}{5}%
+\contentsline {section}{\numberline {9}Listen}{5}%
+\contentsline {section}{\numberline {10}Backtracking}{5}%
+\contentsline {section}{\numberline {11}Suche}{5}%
+\contentsline {section}{\numberline {12}WP-Kalk, Induktion}{5}%
+\contentsline {section}{\numberline {13}Schreibtischlauf}{5}%
+\contentsline {section}{\numberline {14}UML/OOP}{5}%
+\contentsline {section}{\numberline {15}Vererbung}{5}%
